@@ -1,0 +1,11 @@
+#ingore all sync files
+._sync_0e0cc2f6ae5e.db
+._sync_0e0cc2f6ae5e.db-shm
+._sync_0e0cc2f6ae5e.db-wal
+._sync_6329aa4d3dd1.db
+._sync_6329aa4d3dd1.db-shm
+._sync_6329aa4d3dd1.db-wal
+<<<<<<< HEAD
+
+#adding vs code dir
+.vscode
