@@ -1,1 +1,2 @@
-My C language codes!
+My C language codes.
+Newb alert!
