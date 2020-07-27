@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main ()
+int main ()
 {
   float sst, cs, hin, eng, maths, science, total, max_marks, final_max_marks, perc;
 
@@ -35,4 +35,5 @@ void main ()
 
   //Outputting info
   printf ("Total marks obtained are %f out of %f and percentage is %f\n", total,max_marks,perc);
+  return 0;
 }
