@@ -1,6 +1,5 @@
-#include<iostream>
+#include <iostream>
+int main()
 {
-  clrscr();
-  cout<<"hello harshit";
-  getch();
+  std::cout<<"hello harshit\n";
 }
