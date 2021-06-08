@@ -1,2 +1,7 @@
+    else
+    {
+      printf("The string is not palindrome\n");
+      break;
+    }
 
-  // printf("%d%d",num, upto);
+    printf("The string is a palindrome\n");
